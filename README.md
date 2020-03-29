@@ -2,4 +2,4 @@
 
 Hi humans!
 
-lsourwes here, newbie here at Github. Im a reaserch analyst specialist.
+lsourowes here, newbie here at Github. Im a reaserch analyst specialist.
